@@ -2,7 +2,8 @@
 
 This repo contains my exercises for Next.js 14 App Router from [https://nextjs.org/learn](https://nextjs.org/learn) 🚀
 
-## Command for `Next.js Starter Template`⚡
+
+# Next.js Starter Template⚡
 
 This is the command for starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
 
